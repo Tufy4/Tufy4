@@ -1,16 +1,31 @@
-### Hi there 👋
+## Olá, eu sou o Tufy!!
 
-<!--
-**Tufy4/Tufy4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente estudando Informática para internet na Etec
+- 🧑🏼‍🎓 Terminando o último ano e desenvolvendo um tcc
+- 👨🏼‍💻 Apreciador de front-end
+- 🐗 Aprendendo JavaScript
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/Tufy4">
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=Tufy4&icons_show=true&theme=radical&include_all_commits=true&cont_private=false"/>
+<img widtht="50%" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tufy4&layout=compact&langs_count=16&theme=radical"/>
+</div
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<style>
+
+
+<div class="aa"><br>
+   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
+  </div>
+  
+______________________________________________________________________________________________________________________________________________________
+<br><br> <div> 
+  <a href="https://www.instagram.com/tufyelias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+ 
