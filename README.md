@@ -1,9 +1,9 @@
 ## Olá, eu sou o Tufy!!
 
-- 📚 Atualmente estudando Informática para internet na Etec
-- 🧑🏼‍🎓 Terminando o último ano e desenvolvendo um tcc
+- 📚 Técnico em Informática para internet na Etec
+- 🧑🏼‍🎓 Cursando o superior em Sistemas para Internet
 - 👨🏼‍💻 Apreciador de front-end
-- 🐗 Aprendendo JavaScript
+
 
 <div>
 <a href="https://github.com/Tufy4">
