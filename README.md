@@ -1,7 +1,7 @@
 ## Olá, eu sou o Tufy!!
 
 - 📚 Técnico em Informática para internet na Etec
-- 🧑🏼‍🎓 Cursando o superior em Sistemas para Internet
+- 🧑🏼‍🎓 Cursando superior em Sistemas para Internet
 - 👨🏼‍💻 Apreciador de front-end
 
 
