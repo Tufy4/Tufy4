@@ -10,7 +10,7 @@ I enjoy back-end development (and I also like front-end) and am seeking professi
 
 
 
-<img  widtht="45%" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tufy4&layout=compact&langs_count=16&theme=radical"/>
+<img  widtht="65%" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tufy4&layout=compact&langs_count=16&theme=radical"/>
 <br>
 
 
