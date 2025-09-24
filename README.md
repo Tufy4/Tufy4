@@ -4,7 +4,7 @@ I have a technical degree in Internet Informatics from Etec de Araraquara. I am 
 
 ## About me 🧑🏽
 I enjoy back-end development (and I also like front-end) and am seeking professional growth through new challenges and unique projects.
-<p>I am skilled in C, JavaScript, PHP (to a minimal extent), Java and MySQL, as well as the good old HTML and CSS!
+<p>I am skilled in C, JavaScript, PHP (to a minimal extent), Java, MySQL and Oracle Database
 </p>
 <br>
 
